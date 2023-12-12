@@ -20,8 +20,8 @@ public class App {
 
 	public static void main(String[] args) {
 
-		final Endpoint TO_NUMBER = new PhoneEndpoint("14083142771");
-		final String VONAGE_NUMBER = "14084091740";
+		final Endpoint TO_NUMBER = new PhoneEndpoint("16505551212");
+		final String VONAGE_NUMBER = "14085551212";
 
 		final String MEDIA_URL = "https://test-audio-streams.s3.amazonaws.com/countTo20.mp3";
 
