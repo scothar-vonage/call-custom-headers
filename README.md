@@ -22,15 +22,15 @@ Enable the Voice Capability and set the **Answer URL** to `www.example.com/calls
 
 ## Configure your credentials:
 ```java
-    private static final String APP_ID = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
-    private static final String PRIVATE_KEY = "outbound-calling.key";
+private static final String APP_ID = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+private static final String PRIVATE_KEY = "outbound-calling.key";
 ```
 
 ## Set up the phone numbers
 Set the `TO_NUMBER` and `VONAGE_NUMBER` variables:
 ```java
-		final Endpoint TO_NUMBER = new PhoneEndpoint("16505551212");
-		final String VONAGE_NUMBER = "14085551212";
+final Endpoint TO_NUMBER = new PhoneEndpoint("16505551212");
+final String VONAGE_NUMBER = "14085551212";
 ```
 ## To enable TTS
 
