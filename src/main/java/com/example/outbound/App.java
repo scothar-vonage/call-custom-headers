@@ -15,7 +15,7 @@ import com.vonage.client.voice.ncco.TalkAction;
 public class App {
 
 	// Replace these with your Vonage API credentials
-	private static final String APP_ID = "XXXXXXXXXXXXXXXXXXXXXXXXX";
+	private static final String APP_ID = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 	private static final String PRIVATE_KEY = "outbound-calling.key";
 
 	public static void main(String[] args) {
