@@ -53,7 +53,7 @@ StreamAction action = StreamAction.builder(MEDIA_URL).build();
 
 ## To Run the app
 
-From a terminal window and navigate to the project's home directory and run:
+Open a terminal window and navigate to the project's home directory and run:
 ```
 mvn compile exec:java
 ```
