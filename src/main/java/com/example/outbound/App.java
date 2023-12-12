@@ -38,7 +38,7 @@ public class App {
 				.build();
 
 		/*
-		 * Uncomment this line to stream an mp3 file. Make sure you comment the /*
+		 * Uncomment this line to stream an mp3 file. Make sure you comment the 
 		 * TalkAction line, above, if you stream uncomment the StreamAction line
 		 */
 		// StreamAction action = StreamAction.builder(MEDIA_URL).build();
