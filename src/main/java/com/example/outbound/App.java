@@ -13,7 +13,8 @@ public class App {
 	private static final String APP_ID = "XXXXXXXXXXXXXXXXXXX";
 	private static final String PRIVATE_KEY = "XXXX.key";
 
-	private static final String FROM = "14085551212";
+	//Replace this number with one of your Vonage phone numbers
+	private static final String FROM = "XXXXX";
 
 
 	public static void main(String[] args) {
