@@ -20,12 +20,7 @@
 	</properties>
 
 	<dependencies>
-		<!-- https://mvnrepository.com/artifact/com.vonage/client -->
-		<!--		<dependency>
-			<groupId>com.vonage</groupId>
-			<artifactId>client</artifactId>
-			<version>8.1.0</version>
-		</dependency>-->
+
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
 			<artifactId>httpclient</artifactId>
@@ -37,8 +32,7 @@
 			<version>2.16.1</version>
 
 		</dependency>
-		<!--
-		https://mvnrepository.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-jsr310 -->
+
 		<dependency>
 			<groupId>com.fasterxml.jackson.datatype</groupId>
 			<artifactId>jackson-datatype-jsr310</artifactId>
@@ -55,8 +49,6 @@
 			<artifactId>com.fasterxml.jackson.databind</artifactId>
 			<version>2.10.5.1.LIFERAY-PATCHED-1</version>
 		</dependency>
-		<!--
-		https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations -->
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-annotations</artifactId>
